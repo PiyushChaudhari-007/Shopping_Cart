@@ -1,6 +1,6 @@
 # ELECTRONIC-ONLINE-SHOPPING-CART-DATABASE
 <center>
-<img align="left" width="100" height="100" src="https://github.com/PiyushChaudhari-007/Shopping_Cart_Inventory_Management/blob/main/CART.png">
+<img  width="100" height="100" src="https://github.com/PiyushChaudhari-007/Shopping_Cart_Inventory_Management/blob/main/CART.png">
 </center>
 
 ## Project Description
