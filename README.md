@@ -1,5 +1,9 @@
 # ELECTRONIC-ONLINE-SHOPPING-CART-DATABASE
+<center>
 <img align="left" width="100" height="100" src="https://github.com/PiyushChaudhari-007/Shopping_Cart_Inventory_Management/blob/main/CART.png">
+</center>
+<br>
+
 ## Project Description
 
 This database is designed to manage users, products, reviews, carts, orders, and payments for an online shopping cart platform. It can be utilized to develop online shops and shopping cart-based websites or applications. The database includes various entities and relationships, which can be visualized through an ER diagram. The main functionality of the database allows users to search and add products to their shopping cart, make payments, and place orders.
