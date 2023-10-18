@@ -1,5 +1,5 @@
 # ELECTRONIC-ONLINE-SHOPPING-CART-DATABASE
-!(https://github.com/PiyushChaudhari-007/Shopping_Cart_Inventory_Management/blob/main/CART.png)
+![](https://github.com/PiyushChaudhari-007/Shopping_Cart_Inventory_Management/blob/main/CART.png)
 
 ## Project Description
 
