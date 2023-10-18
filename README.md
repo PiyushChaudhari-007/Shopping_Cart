@@ -72,7 +72,7 @@ The database includes the following relationships:
 
 ## ER Diagram
 
-![Er Diagram final1 ](https://github.com/PriyanshuKadam/ELECTRONIC-ONLINE-SHOPPING-CART-DATABASE/assets/142070169/558ca4e4-a598-4082-8c75-ae043e3f58e5)
+![Er Diagram final1 ](https://github.com/PiyushChaudhari-007/Shopping_Cart_Inventory_Management/blob/main/Relationship%20Table.png)
 
 
 Please note that the diagram is a visual representation of the entities and relationships described above.
