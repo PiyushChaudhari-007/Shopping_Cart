@@ -1,4 +1,5 @@
 # ELECTRONIC-ONLINE-SHOPPING-CART-DATABASE
+![](https://github.com/PiyushChaudhari-007/Shopping_Cart_Inventory_Management/blob/main/Relationship%20Table.png)
 
 ## Project Description
 
